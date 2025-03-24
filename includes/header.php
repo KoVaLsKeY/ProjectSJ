@@ -5,22 +5,22 @@
             <ul class="navbar-nav d-flex flex-row mb-0">
                 <li class="nav-item">
                     <a class="nav-link text-white viber" href="https://invite.viber.com/?g=VPKwJjQi3VOrGkbQu76sFvqgSEHCGmNG" target="_blank">
-                        <img src="img/viber.png" width="40px" alt="viber">
+                        <img src="images/viber.png" width="40px" alt="viber">
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white whatsapp" href="https://wa.me/380986110329" target="_blank">
-                        <img src="img/whatsapp.png" width="40px" alt="whatsapp">
+                        <img src="images/whatsapp.png" width="40px" alt="whatsapp">
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white telegram" href="https://t.me/+N5kZXWBOxjVlNGNi" target="_blank">
-                        <img src="img/telegram.png" width="40px" alt="telegram">
+                        <img src="images/telegram.png" width="40px" alt="telegram">
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white instagram" href="https://www.instagram.com/kindergarten_slniecko/" target="_blank">
-                        <img src="img/instagram.png" width="40px" alt="instagram">
+                        <img src="images/instagram.png" width="40px" alt="instagram">
                     </a>
                 </li>
                 <li class="nav-item">

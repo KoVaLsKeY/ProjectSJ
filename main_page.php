@@ -17,7 +17,5 @@ require_once "includes/functions.php"; // Підключаємо налашту�
     <footer>
     <?php include_once "includes/footer.php"; ?>
     </footer> <!-- Підключаємо футер -->
-
-<script defer src="js/java.js"></script>
 </body>
 </html>
