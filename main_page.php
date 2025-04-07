@@ -11,7 +11,9 @@ require_once "includes/functions.php"; // Підключаємо налашту�
         <?php include_once "includes/header.php"; ?> <!-- Підключаємо хедер -->
     </header>
     <main>
-        <h1><?php echo greet('Lucy'); ?></h1>
+        <h1><?php echo greet('Lucy');
+        include_once "includes/kontakt.php";
+        ?></h1>
         <p>Ласкаво просимо на сайт!</p>
     </main>
     <footer>

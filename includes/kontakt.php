@@ -1,4 +1,5 @@
-<form id = "contact" method = "post" action ="db/spracovanieFormualara.php">
+<br><br><br><br><br>
+<form id = "contact" method = "post" action ="db/spracovanieFormulara.php">
     <input type="text" placeholder = "Vase meno" name = "meno" id = "meno" required><br>
     <input type="email" placeholder = "Vas email" name = email id = "email" required><br>
     <textarea placeholder = "Vasa sprava" name = "sprava" id = "sprava"></textarea><br>
