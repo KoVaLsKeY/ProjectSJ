@@ -15,9 +15,9 @@ try{
 } catch(PDOException $e){
     die("Chyba pripojenia: ".$e->getMessage());
 }
-$meno = $_GET["meno"];
-$email = $_GET["email"];
-$sprava = $_GET["sprava"];
+$meno = $_POST["meno"];
+$email = $_POST["email"];
+$sprava = $_POST["sprava"];
 
 $sql = "INSERT INTO udaje (meno, email, sprava)
 VALUE ('".$meno."', '".$email."','".$sprava."')";
